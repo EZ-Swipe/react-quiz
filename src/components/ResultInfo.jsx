@@ -40,7 +40,7 @@ const ResultInfo = ({ correct, wrong }) => {
           <span>{wrong}</span>
         </motion.div>
       </div>
-      <a href="/">
+      <a href="https://ez-swipe.github.io/react-quiz/">
         <motion.button
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
